@@ -8,9 +8,9 @@ sns.set(style='dark')
 
 
 day_data = pd.read_csv(
-    "/Users/pro2015/belajar/dicoding project /Dashboard/day_df.csv")
+    "/Users/Users/pro2015/belajar/bike-sharing/Dashboard/day_df.csv")
 hour_data = pd.read_csv(
-    "/Users/pro2015/belajar/dicoding project /Dashboard/hour_df.csv")
+    "/Users/Users/pro2015/belajar/bike-sharing/Dashboard/hour_df.csv")
 
 # day_data = pd.read_csv('/Users/pro2015/dicoding project/Dashboard/day_df.csv')
 # hour_data = pd.read_csv('/Users/pro2015/dicoding project/Dashboard/hour_df.csv')
