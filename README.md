@@ -10,6 +10,8 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
 ## Run streamlit
 
+streamlit run dashboard.py
+
 https://bike-sharing-dicoding-project.streamlit.app/
 
 copy link di atas ke google.
